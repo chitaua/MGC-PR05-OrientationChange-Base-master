@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="general_activity_margin">16dp</dimen>
+    <dimen name="general_button_min_wdith">30dp</dimen>
+    <dimen name="deselect_image_alpha">1</dimen>
+    <item name="selected_image_alpha" type="dimen" format="float">0.5</item>
+</resources>
